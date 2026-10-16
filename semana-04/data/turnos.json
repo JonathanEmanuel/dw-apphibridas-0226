@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c61fb3b0-5974-468c-a444-c57cc83c9065",
+    "nombre": "Laika",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "d2dc9c9f-911c-47ee-84a2-88dcc53f8c78",
+    "nombre": "Luna",
+    "fecha": "28-08-2026",
+    "tratamiento": "vacunación"
+  }
+]

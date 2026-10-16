@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    height: 15vh;
+    background-color: teal;
+    color: white;
+}
+
+main {
+    width: 80%;
+    margin: auto;
+    min-height: 80vh;
+}
+
+footer {
+    height: 5vh;
+    background-color: rgb(28, 29, 29);
+    color: white;
+}

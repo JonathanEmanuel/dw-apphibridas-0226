@@ -1,0 +1,68 @@
+[
+  {
+    "id": "0dce99e6-b450-430c-87c0-8005c860a6c9",
+    "nombre": "Luna.",
+    "fecha": "07-08-26",
+    "tratamiento": "Vacunación"
+  },
+  {
+    "id": "9ab9ced2-17d8-4293-a807-4f16c8dbedd8",
+    "nombre": "Laika",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "4f6e19a2-7759-4863-8075-9d31997cc707",
+    "nombre": "Luna",
+    "fecha": "07-08-26",
+    "tratamiento": "Vacunación"
+  },
+  {
+    "id": "66218800-5d81-40cd-a04b-3d96d7199ff6",
+    "nombre": "Laika",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "c69b987f-fa2d-4301-8b05-92cf9bd2afee",
+    "nombre": "Laika3",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "5051aaf7-42d0-4596-a564-283810bebe15",
+    "nombre": "Luna",
+    "fecha": "07-08-26",
+    "tratamiento": "Vacunación"
+  },
+  {
+    "id": "e38a30ba-9871-4e1e-af84-7574497586d2",
+    "nombre": "Laika",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "a6691c37-980e-4da3-8650-e860dd995fc9",
+    "nombre": "Laika3",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "9bfdf240-6822-4fb0-bb91-b8948788b7ed",
+    "nombre": "Luna",
+    "fecha": "07-08-26",
+    "tratamiento": "Vacunación"
+  },
+  {
+    "id": "c61fb3b0-5974-468c-a444-c57cc83c9065",
+    "nombre": "Laika",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  },
+  {
+    "id": "08b3c58c-43f5-4737-98ce-bc2314c46b0e",
+    "nombre": "Laika3",
+    "fecha": "20-09-2026",
+    "tratamiento": "Chequeo General"
+  }
+]
